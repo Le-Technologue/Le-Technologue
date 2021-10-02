@@ -2,7 +2,8 @@
   
 - 🎓 I'm a thirty-something Science & Technology Studies graduate from the EHESS, branching out in IT !
 - 🔧 I like to fix stuff and help people out doing so.
-- 🌱 Currently learning old skool C language from the bottom up at 42 School Lyon.
+- 🌱 At the moment I'm learning old skool C language from the bottom up at 42 School Lyon.
+- 🔭 Looking forward to bring pertinent solutions and a human touch to your IT challenges.
 
 <!--
 **Le-Technologue/Le-Technologue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
