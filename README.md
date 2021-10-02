@@ -1,8 +1,8 @@
 ### Greetings ! 👋
   
 - 🎓 I'm a thirty-something Science & Technology Studies graduate from the EHESS, branching out in IT !
+- 🌱 Currently learning old skool C language from the bottom up at 42 School Lyon.
 - 🔧 I like to fix stuff and help people out doing so.
-- 🌱 At the moment I'm learning old skool C language from the bottom up at 42 School Lyon.
 - 🔭 Looking forward to bring pertinent solutions and a human touch to your IT challenges.
 
 <!--
