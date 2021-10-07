@@ -1,4 +1,4 @@
-### Greetings ! 👋
+### Greetings ~ (*・ω・)ﾉ
   
 - 🎓 I'm a thirty-something Science & Technology Studies graduate from the EHESS, branching out in IT !
 - 🌱 Currently learning old skool C language from the bottom up at 42 School Lyon.
